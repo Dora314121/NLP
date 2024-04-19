@@ -32,7 +32,6 @@ print(downloader.supported_languages_table("pos2"))
 polyglot download embeddings2.en pos2.en
 
 from polyglot.text import Text
-
 blob = """We will meet at eight o'clock on Thursday morning."""
 text = Text(blob)
 text.pos_tags
