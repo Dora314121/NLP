@@ -1,0 +1,16 @@
+import nltk
+nltk.download('punkt')
+
+
+from textblob import TextBlob
+sentence = "Anyone can wear the mask. You can wear the mask!"
+ngram_object = TextBlob(sentence)
+bigrams = ngram_object.ngrams(n = 2)
+print(bigrams)
+
+
+trigrams = ngram_object.ngrams(n = 3)
+print(trigrams)
+
+
+
