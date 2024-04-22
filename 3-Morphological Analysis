@@ -1,5 +1,5 @@
 link :   https://colab.research.google.com/drive/18Sz6iMjY0SpSDRcUptwHCMmb6PWw84dt?usp=sharing
-
+Morphological analysis is a linguistic method used to study the structure and formation of words in a language. It involves breaking down words into their smallest meaningful units, called morphemes, and examining how these morphemes combine to create different forms and meanings. This analysis helps linguists understand the rules and patterns governing word formation within a language.
 
 !pip install morfessor
 
