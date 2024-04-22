@@ -1,5 +1,5 @@
 Link   -   https://colab.research.google.com/drive/1QR1UODkcb0LXKE5AIch0tJkYlAu0QW3e?usp=sharing
-
+A Hidden Markov Model (HMM) is a statistical model used to describe a system where the states are hidden from direct observation but can be inferred from the observable outputs.
 
 # Importing libraries
 import nltk
