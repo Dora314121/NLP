@@ -1,3 +1,6 @@
+link :   https://colab.research.google.com/drive/18Sz6iMjY0SpSDRcUptwHCMmb6PWw84dt?usp=sharing
+
+
 !pip install morfessor
 
 !pip install pycld2
