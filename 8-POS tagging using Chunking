@@ -1,3 +1,7 @@
+link -    https://colab.research.google.com/drive/1FkhcW-G0M0KwG94Pe6KBKb47EEvJEZ-P?usp=sharing
+
+
+
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.tag import pos_tag
