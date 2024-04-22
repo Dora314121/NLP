@@ -3,6 +3,8 @@ https://colab.research.google.com/drive/1HN8I5to_AKsoAMxAFUfPhBP4cIP9xvBB?usp=sh
 A regular expression, often abbreviated as regex, is a sequence of characters that forms a search pattern. It's used mainly for pattern matching within strings.
 Regular expressions provide a concise and flexible means for matching strings of text, such as particular characters, words, or patterns of characters. They are widely used in text processing tasks, like search and replace operations within text editors, validation of input data (like email addresses or phone numbers), and parsing of complex text data.
 For example, a regular expression can be used to search for all email addresses in a block of text or to validate whether a string represents a valid phone number in a certain format.
+
+
 import re
 
 text2 = """COM    Computers
